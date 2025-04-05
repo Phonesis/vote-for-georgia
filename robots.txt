@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.voteforgeorgia.info/sitemap.xml
